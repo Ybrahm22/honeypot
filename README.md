@@ -20,4 +20,5 @@
 
 **Summary:** The JSON file is an exported file with the records of attacks to the honeypot VM.
 
-*Be sure to upload session.json directly to this GitHub repo/branch in order to get full credit.*
+<img src="https://github.com/Ybrahm22/honeypot/blob/main/session.json.png">
+
